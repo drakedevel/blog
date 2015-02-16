@@ -1,0 +1,11 @@
+# Site settings
+title: "adrake's blog"
+email: adrake.org
+description: 
+baseurl: ""
+url: "https://adrake.org"
+twitter_username: drakedevel
+github_username:  drakedevel
+
+# Build settings
+markdown: kramdown
