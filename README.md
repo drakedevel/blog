@@ -1,2 +1,0 @@
-# blog
-adrake.org blog
